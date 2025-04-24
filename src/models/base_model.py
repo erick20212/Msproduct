@@ -1,4 +1,4 @@
-# src/models/basemodel.py
+# src/models/base_model.py
 class BaseModelMixin:
     def to_dict(self):
         """Devuelve un diccionario con los valores de las columnas del modelo."""

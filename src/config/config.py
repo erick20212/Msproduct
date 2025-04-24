@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 
-# Cargar las variables de entorno
 load_dotenv()
 
 # Verificar que la URL de la base de datos se está cargando correctamente

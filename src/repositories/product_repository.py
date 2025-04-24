@@ -1,5 +1,5 @@
 from src.db import db # Importar instancia FlaskSQLAlchemy para acceder a db.session
-from src.models.productmodel import Product
+from src.models.product_model import Product
 
 class ProductRepository:
 
